@@ -10,9 +10,8 @@ LRU Cache implementation with Redis in Python
     - Ubuntu Command ```sudo apt install redis-server```
 2. Install Flask
     - ```pip install Flask```
-3. Open a pull request
-    * Describe my changes
-    * Mention all the members of my team
-        * Ask for feedback
         
 ## implementation strategy
+Set cache size in lru.py
+
+```CACHE_SIZE = 20```
