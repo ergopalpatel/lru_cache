@@ -14,7 +14,7 @@ Implement a cache that on start-up would load data from a file into the cache. T
 2. Install Flask
     - ```pip install Flask```
         
-## implementation strategy
+## Implementation strategy
 Set cache size in ```lru.py```
 
 ```CACHE_SIZE = 20```
