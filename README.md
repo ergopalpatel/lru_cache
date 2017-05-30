@@ -10,7 +10,7 @@ Implement a cache that on start-up would load data from a file into the cache. T
 
 ## Steps to setup working environment
 1. Install Redis Server
-    - Ubuntu Command ```sudo apt install redis-server```
+    - Ubuntu Command ```sudo apt-get install redis-server```
 2. Install Flask
     - ```pip install Flask```
         
